@@ -364,3 +364,4 @@
 /Users/thatosmacbook/RazorPagesMovie/bin/Debug/net10.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/thatosmacbook/RazorPagesMovie/obj/Debug/net10.0/RazorPagesMovie.csproj.AssemblyReference.cache
 /Users/thatosmacbook/RazorPagesMovie/obj/Debug/net10.0/RazorPag.6F531686.Up2Date
+/Users/thatosmacbook/RazorPagesMovie/obj/Debug/net10.0/RazorPagesMovie.sourcelink.json
